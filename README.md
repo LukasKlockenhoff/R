@@ -105,9 +105,7 @@ summary(model)
 
 # Rscript helloworld.r
 ```
-
-![[Rplots.pdf]]
-
+obsidian://open?vault=ObsidianVault&file=Rplots.pdf
 
 ```output
 [1] TRUE
