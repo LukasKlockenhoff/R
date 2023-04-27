@@ -1,6 +1,22 @@
 # R
 R Welcome Script. Shows basic Statistical Analysis, Plotting and Basic Functions.
 
+## Mit R arbeiten
+### R installieren
+https://cran.r-project.org/bin/windows/base/
+### R IDE (Integrated Development Environment)
+#### RStudio
+https://posit.co/download/rstudio-desktop/
+#### VSCode
+https://code.visualstudio.com/download
+#### Jupyter Lab
+1. Python installieren
+https://www.python.org/downloads/
+2. cmd öffnen
+3. "pip install jupyterlab" eingeben
+https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html
+#### Was dir der Prof empfield ...
+...
 ## Hello R!
 
 ```R
@@ -105,7 +121,7 @@ summary(model)
 
 # Rscript helloworld.r
 ```
-obsidian://open?vault=ObsidianVault&file=Rplots.pdf
+## Dieses Programm gibt die Datei Rplots.pdf aus, die alle Diagramme enthält.
 
 ```output
 [1] TRUE
