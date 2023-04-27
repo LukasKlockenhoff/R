@@ -121,7 +121,7 @@ summary(model)
 
 # Rscript helloworld.r
 ```
-## Dieses Programm gibt die Datei Rplots.pdf aus, die alle Diagramme enthält.
+## Dieses Programm gibt die Datei Rplots.pdf aus, die alle Diagramme enthält und liefert den folgenden Output in der Konsole:
 
 ```output
 [1] TRUE
